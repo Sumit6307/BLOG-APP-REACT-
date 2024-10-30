@@ -13,7 +13,7 @@ function App() {
                 <h2>A blog Website</h2>
       <h3>Blog write by Sumit</h3>
        <h4>Write , Update and Swing</h4>
-       <h5>Sponser by HashNode</h5>
+       <h5>Sponser by GravityTeam</h5>
        
         <h6> @ Copyright reserved 2024</h6>
     </>
